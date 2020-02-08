@@ -2,6 +2,8 @@
 !  Code = gets free parameters to conduct OI
 !
 !  Any question about this code to Kyunghwa Lee (K.Lee)
+!
+!  e-mail address: lkh1515@gmail.com 
 !----------------------------------------------------------------------
 
 !----------------------------------------------------------------------

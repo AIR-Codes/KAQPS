@@ -1,4 +1,9 @@
 begin
+;*** information of this code ***********************************************
+; Any question about this code to Kyunghwa Lee (K.Lee)
+;
+; e-mail address: lkh1515@gmail.com 
+;****************************************************************************
 
 ;****************************************************************************
   setfileoption("nc","Format","LargeFile")
